@@ -1,2 +1,2 @@
 # TestApp
-first test git
+my first git repository
